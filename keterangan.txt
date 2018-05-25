@@ -9,4 +9,9 @@ saya tidak bisa melakukan instalasi kubernetes di aws, sehingga saya hanya mengg
 keterangan :
 - "docker run -p 9000:80 wordpress" : create container with wordpress web at port 9000 for launch in server
 
-Untuk check container yang berjalan pas browser, melalui : http://18.218.189.211:9000
+Untuk check container yang berjalan pada browser, melalui : http://18.218.189.211:9000
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Nama : Aprilia Ramadhayanti
+NIM : 155410010
