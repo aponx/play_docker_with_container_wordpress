@@ -1,0 +1,12 @@
+saya tidak bisa melakukan instalasi kubernetes di aws, sehingga saya hanya menggunakan docker langsung di dalam server aws.
+
+1. installation docker : apt install docker docker.io
+2. check version of docker : docker --version
+3. search image wordpress on docker : docker search wordpress
+4. create container wordpress : docker run -p 9000:80 wordpress
+5. check container active : docker container ls
+
+keterangan :
+- "docker run -p 9000:80 wordpress" : create container with wordpress web at port 9000 for launch in server
+
+Untuk check container yang berjalan pas browser, melalui : http://18.218.189.211:9000
